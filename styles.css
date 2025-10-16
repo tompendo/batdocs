@@ -7,13 +7,7 @@
 
 body {
   font-family: "Inter", Arial, sans-serif;
-  background-color: #006487;
-  background: radial-gradient(
-  ellipse farthest-side at 75% top,
-  #55a0b9 -100%,
-  #0077a1 40%,
-  #006b91 75%,
-  #006487 100%
+  background-color: #FFFFFF;
   color: #1e293b;
   line-height: 1.6;
   display: flex;

@@ -18,12 +18,6 @@ body {
 /* Header */
 header {
   background-color: #006487;
-  background: radial-gradient(
-  ellipse farthest-side at 75% top,
-  #55a0b9 -100%,
-  #0077a1 40%,
-  #006b91 75%,
-  #006487 100%;
   color: white;
   text-align: center;
   padding: 2rem 1rem;
